@@ -1,0 +1,12 @@
+stm32f3xx_ll_rcc.c:224:13:LL_RCC_DeInit	16	static
+stm32f3xx_ll_rcc.c:322:6:LL_RCC_GetSystemClocksFreq	12	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:348:10:LL_RCC_GetUSARTClockFreq	8	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:554:10:LL_RCC_GetI2CClockFreq	8	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:706:10:LL_RCC_GetADCClockFreq	16	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:819:10:LL_RCC_GetTIMClockFreq	8	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:971:10:LL_RCC_GetHRTIMClockFreq	8	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:1010:10:RCC_GetSystemClockFreq	8	static,ignoring_inline_asm
+stm32f3xx_ll_rcc.c:1042:10:RCC_GetHCLKClockFreq	0	static
+stm32f3xx_ll_rcc.c:1053:10:RCC_GetPCLK1ClockFreq	0	static
+stm32f3xx_ll_rcc.c:1064:10:RCC_GetPCLK2ClockFreq	0	static
+stm32f3xx_ll_rcc.c:1074:10:RCC_PLL_GetFreqDomain_SYS	4	static,ignoring_inline_asm

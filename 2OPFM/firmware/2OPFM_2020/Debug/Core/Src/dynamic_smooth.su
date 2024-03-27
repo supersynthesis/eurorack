@@ -1,0 +1,4 @@
+dynamic_smooth.c:11:7:cm_min	0	static
+dynamic_smooth.c:15:7:cm_abs	0	static
+dynamic_smooth.c:23:6:dynamic_smooth_init	0	static
+dynamic_smooth.c:44:7:dynamic_smooth_tick	0	static

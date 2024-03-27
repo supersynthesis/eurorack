@@ -1,0 +1,2 @@
+dac.c:12:13:dac2_ch1	0	static,ignoring_inline_asm
+dac.c:16:13:dac1_ch1	0	static,ignoring_inline_asm
