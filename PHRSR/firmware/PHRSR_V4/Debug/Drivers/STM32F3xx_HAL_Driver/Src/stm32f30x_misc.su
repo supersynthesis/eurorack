@@ -1,0 +1,5 @@
+stm32f30x_misc.c:100:6:NVIC_PriorityGroupConfig	0	static
+stm32f30x_misc.c:118:6:NVIC_Init	16	static
+stm32f30x_misc.c:161:6:NVIC_SetVectorTable	0	static
+stm32f30x_misc.c:180:6:NVIC_SystemLPConfig	0	static
+stm32f30x_misc.c:204:6:SysTick_CLKSourceConfig	0	static

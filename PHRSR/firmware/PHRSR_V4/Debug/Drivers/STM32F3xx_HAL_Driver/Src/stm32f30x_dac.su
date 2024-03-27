@@ -1,0 +1,17 @@
+stm32f30x_dac.c:176:6:DAC_DeInit	8	static
+stm32f30x_dac.c:209:6:DAC_Init	12	static
+stm32f30x_dac.c:247:6:DAC_StructInit	0	static
+stm32f30x_dac.c:273:6:DAC_Cmd	0	static
+stm32f30x_dac.c:303:6:DAC_SoftwareTriggerCmd	0	static
+stm32f30x_dac.c:331:6:DAC_DualSoftwareTriggerCmd	0	static
+stm32f30x_dac.c:366:6:DAC_WaveGenerationCmd	0	static
+stm32f30x_dac.c:397:6:DAC_SetChannel1Data	8	static
+stm32f30x_dac.c:425:6:DAC_SetChannel2Data	8	static
+stm32f30x_dac.c:458:6:DAC_SetDualChannelData	0	static
+stm32f30x_dac.c:494:10:DAC_GetDataOutputValue	8	static
+stm32f30x_dac.c:540:6:DAC_DMACmd	0	static
+stm32f30x_dac.c:591:6:DAC_ITConfig	0	static
+stm32f30x_dac.c:625:12:DAC_GetFlagStatus	0	static
+stm32f30x_dac.c:661:6:DAC_ClearFlag	0	static
+stm32f30x_dac.c:686:10:DAC_GetITStatus	0	static
+stm32f30x_dac.c:726:6:DAC_ClearITPendingBit	0	static

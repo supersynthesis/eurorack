@@ -1,0 +1,15 @@
+stm32f30x_syscfg.c:108:6:SYSCFG_DeInit	0	static
+stm32f30x_syscfg.c:139:6:SYSCFG_MemoryRemapConfig	0	static
+stm32f30x_syscfg.c:195:6:SYSCFG_DMAChannelRemapConfig	0	static
+stm32f30x_syscfg.c:243:6:SYSCFG_TriggerRemapConfig	0	static
+stm32f30x_syscfg.c:289:6:SYSCFG_EncoderRemapConfig	0	static
+stm32f30x_syscfg.c:315:6:SYSCFG_USBInterruptLineRemapCmd	0	static
+stm32f30x_syscfg.c:348:6:SYSCFG_I2CFastModePlusConfig	0	static
+stm32f30x_syscfg.c:380:6:SYSCFG_ITConfig	0	static
+stm32f30x_syscfg.c:406:6:SYSCFG_EXTILineConfig	8	static
+stm32f30x_syscfg.c:430:6:SYSCFG_BreakConfig	0	static
+stm32f30x_syscfg.c:445:6:SYSCFG_BypassParityCheckDisable	0	static
+stm32f30x_syscfg.c:475:6:SYSCFG_ADCTriggerRemapConfig	0	static
+stm32f30x_syscfg.c:500:6:SYSCFG_SRAMWRPEnable	0	static
+stm32f30x_syscfg.c:516:12:SYSCFG_GetFlagStatus	0	static
+stm32f30x_syscfg.c:545:6:SYSCFG_ClearFlag	0	static

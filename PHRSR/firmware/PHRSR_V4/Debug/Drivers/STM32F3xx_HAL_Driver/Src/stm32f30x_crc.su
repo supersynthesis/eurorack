@@ -1,0 +1,14 @@
+stm32f30x_crc.c:95:6:CRC_DeInit	0	static
+stm32f30x_crc.c:114:6:CRC_ResetDR	0	static
+stm32f30x_crc.c:130:6:CRC_PolynomialSizeSelect	0	static
+stm32f30x_crc.c:159:6:CRC_ReverseInputDataSelect	0	static
+stm32f30x_crc.c:185:6:CRC_ReverseOutputDataCmd	0	static
+stm32f30x_crc.c:208:6:CRC_SetInitRegister	0	static
+stm32f30x_crc.c:218:6:CRC_SetPolynomial	0	static
+stm32f30x_crc.c:244:10:CRC_CalcCRC	0	static
+stm32f30x_crc.c:256:10:CRC_CalcCRC16bits	0	static
+stm32f30x_crc.c:268:10:CRC_CalcCRC8bits	0	static
+stm32f30x_crc.c:281:10:CRC_CalcBlockCRC	0	static
+stm32f30x_crc.c:297:10:CRC_GetCRC	0	static
+stm32f30x_crc.c:323:6:CRC_SetIDRegister	0	static
+stm32f30x_crc.c:333:9:CRC_GetIDRegister	0	static
