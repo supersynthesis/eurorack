@@ -1,4 +1,3 @@
-Schematics for all Super modules in production as of 3/25/2024.
 
 [2OPFM](https://www.supersynthesis.com/products/2opfm) - Digital 2 operator FM voice with attitude.
 
