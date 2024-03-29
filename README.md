@@ -5,7 +5,7 @@
 
 [SVFs](https://www.supersynthesis.com/products/svfs) - Two rubbery dc-coupled state variable filters.
 
-[EG](https://www.supersynthesis.com/products/eg) - Lightning fast voltage-controlled analog envelope generator.
+[EG](https://www.supersynthesis.com/products/eg-1) - Lightning fast voltage-controlled analog envelope generator.
 
 [VCAs](https://www.supersynthesis.com/products/vcas) - 4 high performance VCAs with flexible mixer capabilities.
 
