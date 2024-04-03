@@ -1,5 +1,5 @@
 # Production Modules
-Eurorack modules Super Synthesis regularly manufacturers and sells. 
+Eurorack modules Super Synthesis regularly builds and sells. 
 
 # Unreleased
 Modules or other synth projects that haven't yet made it far from home. 
