@@ -1,0 +1,6 @@
+stm32g4xx_ll_dac.h:2091:26:LL_DAC_IsEnabled	16	static
+stm32g4xx_ll_bus.h:581:22:LL_AHB2_GRP1_ForceReset	16	static
+stm32g4xx_ll_bus.h:623:22:LL_AHB2_GRP1_ReleaseReset	16	static
+stm32g4xx_ll_dac.c:216:13:LL_DAC_DeInit	16	static
+stm32g4xx_ll_dac.c:293:13:LL_DAC_Init	32	static
+stm32g4xx_ll_dac.c:398:6:LL_DAC_StructInit	16	static

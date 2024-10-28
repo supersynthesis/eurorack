@@ -1,0 +1,3 @@
+2OPFM 2022 NOTES 
+
+Main thing, C13 is now a 1k resistor. it was in series with the current limiting resistor for the output led, leftover from when that signal was AC coupled. it's way better as a 1k. 

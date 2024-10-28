@@ -1,0 +1,9 @@
+2op_main.c:47:6:adsr_structinit	4	static
+2op_main.c:61:6:run_adsr	8	static
+2op_main.c:105:6:run_ar	8	static
+2op_main.c:142:6:run_linear_a_expo_r	8	static
+2op_main.c:181:10:operator_run	0	static
+2op_main.c:187:6:operator_structinit	0	static
+2op_main.c:194:6:check_trig	8	static
+2op_main.c:223:6:set_adsr_parameters	8	static
+2op_main.c:243:6:main_2OP_loop	24	static
