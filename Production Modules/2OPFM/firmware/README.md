@@ -1,4 +1,7 @@
-I will eventually put detailed import and build instructions up, but for now: 
+If you're not making any modifications, you can use STM32CubeProgrammer to flash the .elf file and you'll be good to go. Make sure to match the REV (either REV4 or REV5) to your hardware. REV5 is harder to solder by hand, but includes a V/OCT jumper and is the recommended version. 
+
+
+The .elfs are named according to hardware version, but the folders of source code are named consistent with their STM32CubeIDE projects. 2OPFM_G431 is the latest, 2OPFM_2020 is older. I will eventually put detailed import and build instructions up, but for now: 
 
 1: Import the project to STM32CubeIDE
 
