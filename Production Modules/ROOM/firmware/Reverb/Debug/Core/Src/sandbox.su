@@ -1,0 +1,6 @@
+../Core/Src/sandbox.c:63:15:sandbox_tick	32	static
+../Core/Src/sandbox.c:58:7:fast_tanh	0	static
+../Core/Src/sandbox.c:131:6:control_tick	16	static
+../Core/Src/sandbox.c:145:6:sandbox_init	8	static
+../Core/Src/sandbox.c:176:7:dither	24	static
+../Core/Src/sandbox.c:186:7:limiter	0	static

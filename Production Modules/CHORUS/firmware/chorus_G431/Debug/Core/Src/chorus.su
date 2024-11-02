@@ -1,0 +1,4 @@
+../Core/Src/chorus.c:24:10:lfo_tick	0	static
+../Core/Src/chorus.c:32:7:chorus_tick	24	static
+../Core/Src/chorus.c:101:6:chorus_control_tick	0	static
+../Core/Src/chorus.c:121:6:chorus_init	8	static

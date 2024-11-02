@@ -1,0 +1,2 @@
+../Core/Lib/lerp.c:10:7:lerp_int16	4
+../Core/Lib/lerp.c:35:7:lerp_const_float	4

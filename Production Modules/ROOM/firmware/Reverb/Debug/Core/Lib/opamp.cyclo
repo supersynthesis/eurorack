@@ -1,0 +1,2 @@
+../Core/Lib/opamp.c:10:6:opamp_init	1
+../Core/Lib/opamp.c:16:9:opamp_comparator	3

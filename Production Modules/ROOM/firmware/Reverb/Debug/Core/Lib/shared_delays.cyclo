@@ -1,0 +1,7 @@
+../Core/Lib/shared_delays.c:82:15:shared_modulated_allpass	6
+../Core/Lib/shared_delays.c:10:7:shared_delay	3
+../Core/Lib/shared_delays.c:28:7:shared_allpass	3
+../Core/Lib/shared_delays.c:47:7:shared_modulated_delay	6
+../Core/Lib/shared_delays.c:117:7:shared_nested_allpass	5
+../Core/Lib/shared_delays.c:140:6:shared_delay_tick	2
+../Core/Lib/shared_delays.c:148:6:shared_delay_init	1

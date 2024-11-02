@@ -1,0 +1,5 @@
+../Core/Src/main.c:124:6:void SystemClock_Config()	3
+../Core/Src/main.c:68:5:int main()	1
+../Core/Src/main.c:166:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	3
+../Core/Src/main.c:185:6:void DWT_Start()	1
+../Core/Src/main.c:197:6:void Error_Handler()	1

@@ -1,0 +1,4 @@
+../Core/Src/dynamic_smooth.c:12:7:cm_min	1
+../Core/Src/dynamic_smooth.c:16:7:cm_abs	1
+../Core/Src/dynamic_smooth.c:24:6:dynamic_smooth_init	1
+../Core/Src/dynamic_smooth.c:43:7:dynamic_smooth_tick	1

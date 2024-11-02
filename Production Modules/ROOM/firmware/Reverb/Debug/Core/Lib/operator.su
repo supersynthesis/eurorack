@@ -1,0 +1,15 @@
+../Core/Lib/operator.c:13:7:osc_tick_10b	4	static
+../Core/Lib/operator.c:20:7:osc_tick_16b	4	static
+../Core/Lib/operator.c:27:6:osc_sync	0	static
+../Core/Lib/operator.c:31:7:operator_tick	16	static
+../Core/Lib/operator.c:35:7:operator_tick_had	16	static
+../Core/Lib/operator.c:39:6:operator_init	0	static
+../Core/Lib/operator.c:43:9:fm_voice_trig	24	static
+../Core/Lib/operator.c:50:9:fm_voice_trig_had	32	static
+../Core/Lib/operator.c:57:7:fm_voice_tick	32	static
+../Core/Lib/operator.c:63:7:fm_voice_tick_had	32	static
+../Core/Lib/operator.c:69:7:fmvthad_sq_m	32	static
+../Core/Lib/operator.c:75:7:fmvthad_sw_m	32	static
+../Core/Lib/operator.c:81:7:fmvthad_sq_c	32	static
+../Core/Lib/operator.c:87:7:fmvthad_sw_c	32	static
+../Core/Lib/operator.c:93:6:fm_voice_set_ratio	0	static
